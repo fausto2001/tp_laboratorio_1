@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1599057334 source:c:\programacion - 2 2020\t.p\t.p. 1\tp 1\funcionesmatematicas.c
+
+1599052472 source:c:\programacion - 2 2020\t.p\t.p. 1\tp 1\main.c
+	<stdio.h>
+	"Funciones.h"
+
+1599479344 c:\programacion - 2 2020\t.p\t.p. 1\tp 1\funciones.h
+
+1584205420 source:c:\programacion - 2 2020\t.p\t.p. 1\tp1 codeblocks\t.p. 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1599479668 source:c:\programacion - 2 2020\t.p\t.p. 1\tp 1\funciones.c
+	"Funciones.h"
+	"FuncionesMatematicas.h"
+	<stdio.h>
+
+1599055388 c:\programacion - 2 2020\t.p\t.p. 1\tp 1\funcionesmatematicas.h
+
