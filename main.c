@@ -1,7 +1,8 @@
-#include <stdio.h>
-#include "Funciones.h"
+#include "Functions.h"
 
-void main()
+
+int main()
 {
-	menu();
+	initialize();
+	return 0;
 }
