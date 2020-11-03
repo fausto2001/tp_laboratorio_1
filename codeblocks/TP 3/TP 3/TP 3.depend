@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1603556379 source:c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\main.c
+
+1604321216 source:c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Functions.h"
+	<string.h>
+
+1603557646 c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\linkedlist.h
+
+1604320972 c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\employee.h
+
+1603733520 c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\parser.h
+
+1604081902 c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\functions.h
+
+1604321055 source:c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1604336764 source:c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\functions.c
+	<stdio.h>
+	"LinkedList.h"
+	"Functions.h"
+	"Employee.h"
+	"Controller.h"
+	<string.h>
+	<stdlib.h>
+
+1603907126 c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\controller.h
+
+1603904789 source:c:\programacion - 2 2020\t.p\t.p. 3\codeburokkusu\tp 3\tp 3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+

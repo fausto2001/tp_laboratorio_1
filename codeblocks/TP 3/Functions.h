@@ -1,0 +1,11 @@
+void start();
+void menu(LinkedList* employeeList);
+int newEmployeeId(LinkedList* employees);
+char* getEmployeeName(char name[128]);
+void my_fflush();
+int getInt();
+int getEmployeeIndex(LinkedList* list, int givenId);
+int sortById(LinkedList* employees);
+sortByWorktime(LinkedList* employees);
+sortBySalary(LinkedList* employees);
+sortByName(LinkedList* employees);
