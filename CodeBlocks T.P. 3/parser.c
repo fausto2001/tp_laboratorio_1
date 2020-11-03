@@ -15,8 +15,8 @@ int parser_EmployeeFromText(FILE* pFile , LinkedList* pArrayListEmployee)
     int r = 0;
     char id[20];
     char nombre[128];
-    int horasTrabajadas[20];
-    int sueldo[20];
+    char horasTrabajadas[20];
+    char sueldo[20];
     Employee* empleadoAuxiliar;
 
     do
